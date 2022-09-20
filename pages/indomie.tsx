@@ -5,7 +5,7 @@ export default function indomie() {
       <p>paman</p>
       <ul>
         <li>
-          k
+          kancil
         </li>
       </ul>
     </div>
